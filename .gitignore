@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+data/chroma_db/
+data/raw/
+data/chunks/
+logs/
+eval_results.json
+.pytest_cache/
+*.egg-info/
